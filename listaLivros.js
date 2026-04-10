@@ -1,27 +1,27 @@
 const precosLivros = [
     {
-        titulo: "JavaScript",
-        preco: 25
+        titulo: "A culpa é das estrelas",
+        preco: 35
     },
     {
-        titulo: "PHP",
-        preco:15
+        titulo: "a sutil arte de ligar o fodasse ",
+        preco: 41
     },
     {
-        titulo: "Java",
+        titulo: "A biblioteca da meia-noite",
         preco: 30
     },
     {
-        titulo:"Elixir",
-        preco: 50
+        titulo:"Diario de um banana",
+        preco: 25
     },
     { 
-        titulo: "Go",
-        preco: 45
+        titulo: "As coisas que você só vê quando desacelera",
+        preco: 55
     },
     {
-        titulo:"Python",
-        preco: 20
+        titulo:"A princesa salva a si mesma nesse livro",
+        preco: 28
     }
 ];
 
