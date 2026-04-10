@@ -1,28 +1,28 @@
 const precosLivros = [
-    {
-        titulo: "A culpa é das estrelas",
-        preco: 35
-    },
-    {
-        titulo: "a sutil arte de ligar o fodasse ",
-        preco: 41
-    },
-    {
-        titulo: "A biblioteca da meia-noite",
-        preco: 30
-    },
-    {
-        titulo:"Diario de um banana",
-        preco: 25
-    },
-    { 
-        titulo: "As coisas que você só vê quando desacelera",
-        preco: 55
-    },
-    {
-        titulo:"A princesa salva a si mesma nesse livro",
-        preco: 28
-    }
+  {
+    titulo: "A biblioteca da meia noite",
+    preco: 25
+  },
+  {
+    titulo: "A sutil arte de ligar o foda-se",
+    preco: 20
+  }, 
+  {
+    titulo: "A princesa salva a si mesma neste livro",
+    preco: 15
+  }, 
+  {
+    titulo: "A arte da guerra ",
+    preco: 40
+  }, 
+  {
+    titulo: "o poder do hábito",
+    preco: 35
+  }, 
+  {
+    titulo: "Anne de Green Gables",
+    preco: 25
+  }
 ];
 
-module.expors = precosLivros;
+module.exports = precosLivros;
